@@ -1,0 +1,15 @@
+Package: com.funnynumber.notimetowait
+Name: NoTimeToWait
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes the annoying "Please wait 2 minutes to join a game" message in
+  Among Us
+Maintainer: funnynumber
+Author: funnynumber
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/com.funnynumber.notimetowait_1.0_iphoneos-arm.deb
+Size: 344
+MD5sum: 54ee945a9a0ceaaa8c1f4cee641b4ae4
+SHA1: 97e432af90cd34a78c2226cf72e37662e16697e1
+SHA256: 57936a233e1cdfb480826cebdb669fdf6722effbf9d271eb8b64c77b50ecfd81
