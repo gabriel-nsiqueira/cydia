@@ -10,6 +10,6 @@ Section: Tweaks
 Depends: mobilesubstrate
 Filename: debs/com.funnynumber.notimetowait_1.0_iphoneos-arm.deb
 Size: 8210
-MD5sum: 54ee945a9a0ceaaa8c1f4cee641b4ae4
-SHA1: 97e432af90cd34a78c2226cf72e37662e16697e1
-SHA256: 57936a233e1cdfb480826cebdb669fdf6722effbf9d271eb8b64c77b50ecfd81
+MD5sum: 20e49a7074e607381072bdd2fedda853
+SHA1: aeb7d4959a70a8fa5ab059b236bca85d54b72c16
+SHA256: 04610e975f98f90544752b46ff514cf253ac9209e43d9244e6d5878add0616b5
